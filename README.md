@@ -8,10 +8,8 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with 15+ years of experience building scalable
-enterprise web and mobile applications.\
-Specialized in .NET ecosystems, modern frontend frameworks, iOS
-development, and CI/CD automation.
+Full Stack Developer building scalable enterprise web and mobile applications.
+Specialized in .NET ecosystems, modern frontend frameworks, iOS development, and CI/CD automation.
 
 ------------------------------------------------------------------------
 
