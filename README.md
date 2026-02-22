@@ -1,6 +1,6 @@
 # 👋 Kelvin Nad
 
-**Senior Full Stack Developer**\
+**Full Stack Developer**\
 📍 Alberta, Canada\
 🔗 [LinkedIn](https://linkedin.com/in/kelvin-nad-2a1777209)
 
